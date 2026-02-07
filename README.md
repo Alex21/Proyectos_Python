@@ -14,3 +14,6 @@ Descripción: Aplicación que calcula automáticamente propinas y divide la cuen
 - ✅ División equitativa entre personas
 - ✅ Validación de datos
 - ✅ Interfaz de consola intuitiva
+📝 Notas
+Repositorio creado como parte de mi aprendizaje en desarrollo con Python.  
+Todos los comentarios y sugerencias son bienvenidos.
